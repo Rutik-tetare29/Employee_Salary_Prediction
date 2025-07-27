@@ -10,7 +10,7 @@
 
 **Advanced ML-powered salary prediction system achieving 85.71% accuracy using Gradient Boosting**
 
-[🚀 Live Demo](http://localhost:8501) • [📊 Dataset](adult%203.csv) • [🐛 Issues](mailto:rutiktetare@gmail.com)
+[🚀 Live Demo](https://employeesalarypredictorbyrutik.streamlit.app/) • [📊 Dataset](adult%203.csv) • [🐛 Issues](mailto:rutiktetare@gmail.com)
 
 </div>
 
